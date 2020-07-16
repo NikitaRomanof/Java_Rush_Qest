@@ -1,0 +1,14 @@
+﻿*.class
+target/
+*.iml
+.idea/
+/out.log
+/out.log.*
+/JavaRushPlugin.properties
+/out/
+/Instruction.png
+*.properties
+
+
+
+
